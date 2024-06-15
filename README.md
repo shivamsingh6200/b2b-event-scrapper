@@ -10,7 +10,7 @@ beautifulsoup4
 Setup Instructions
 
 1. Clone the Repository
-git clone https://github.com/bit-web24/b2b-event-scrapper
+git clone https://github.com/shivamsingh6200/b2b-event-scrapper/tree/main
 cd b2b-event-scrapper
 
 3. Create and Activate Virtual Environment
